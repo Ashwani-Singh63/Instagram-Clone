@@ -4,7 +4,7 @@ import Ashwani_pic from '../assets/image/ashwani-01.jpg'
 const Suggestion = () => {
   return (
 
-    <div className='h-[100vh] w-[25%] py-8'>
+    <div className='h-[100vh] w-[25%] py-8 mr-64'>
 
       <div className='flex justify-start items-center mt-4 gap-8 pl-2'>
 

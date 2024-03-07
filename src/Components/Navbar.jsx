@@ -7,7 +7,7 @@ import Ashwani_pic from '../assets/image/ashwani-01.jpg'
 
 const Navbar = () => {
   return (
-    <div className='h-[100vh] w-[15%] flex flex-col justify-between '>
+    <div className='h-[100vh] w-[15%] flex flex-col justify-between fixed'>
     
       <div className='px-4'>
         <div className='flex justify-start my-12 ml-4'>
